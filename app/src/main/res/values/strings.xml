@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessContentProvider</string>
+    <string name="load">LOAD</string>
+</resources>
